@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="captureScreenshot">
+  <test thread-count="5" name="captureScreenshot_failedTest">
+    <classes>
+      <class name="testngTest.captureScreenShot"/>
+    </classes>
+  </test> <!-- captureScreenshot_failedTest -->
+</suite> <!-- captureScreenshot -->
